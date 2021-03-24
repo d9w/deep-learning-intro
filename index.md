@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Introduction to Deep Learning
 
-You can use the [editor on GitHub](https://github.com/d9w/deep-learning-intro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Installation
 
-### Markdown
+All course materials can be followed using the Google Colab or Binder links below.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For a local installation of the materials, please install [Jupyter](https://jupyter.org/install). The slide format of the Jupyter notebooks is provided by the [`RISE`](https://github.com/damianavila/RISE) plugin.
+This class is based on `torch` and `torchvision`; please refer to the [PyTorch](https://pytorch.org/get-started/locally/) website for installation instructions. We'll also be using the packages `sklearn`, `numpy`, and `matplotlib`.
 
-```markdown
-Syntax highlighted code block
+## Class Materials
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/d9w/deep-learning-intro/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+1. Artificial Neural Networks
+  + [Github source](https://github.com/d9w/deep-learning-intro/blob/main/Artificial%20Neural%20Networks.ipynb)
+  + [Colab](https://colab.research.google.com/github/d9w/deep-learning-intro/blob/main/Artificial%20Neural%20Networks.ipynb)
+  + [Binder](https://mybinder.org/v2/gh/d9w/deep-learning-intro/HEAD)
+2. Training ANNs
+  + [Github source](https://github.com/d9w/deep-learning-intro/blob/main/Artificial%20Neural%20Networks.ipynb)
+  + [Colab](https://colab.research.google.com/github/d9w/deep-learning-intro/blob/main/Artificial%20Neural%20Networks.ipynb)
+  + [Binder](https://mybinder.org/v2/gh/d9w/deep-learning-intro/HEAD)
+3. Going deeper with layers
+  + [Github source](https://github.com/d9w/deep-learning-intro/blob/main/Artificial%20Neural%20Networks.ipynb)
+  + [Colab](https://colab.research.google.com/github/d9w/deep-learning-intro/blob/main/Artificial%20Neural%20Networks.ipynb)
+  + [Binder](https://mybinder.org/v2/gh/d9w/deep-learning-intro/HEAD)
+4. Convolutional Neural Networks
+  + [Github source](https://github.com/d9w/deep-learning-intro/blob/main/Artificial%20Neural%20Networks.ipynb)
+  + [Colab](https://colab.research.google.com/github/d9w/deep-learning-intro/blob/main/Artificial%20Neural%20Networks.ipynb)
+  + [Binder](https://mybinder.org/v2/gh/d9w/deep-learning-intro/HEAD)
+4. Directions in Deep Learning
+  + [Slides]()
