@@ -15,7 +15,7 @@ This class is based on `torch` and `torchvision`; please refer to the [PyTorch](
 
 All class materials can be downloaded from the [Github repository](https://github.com/d9w/deep-learning-intro/).
 
-We'll be conducting a live poll throughout the class at the following link: [https://ahaslides.com/DEEP-INTRO](https://ahaslides.com/DEEP-INTRO). The poll questions and responses can be viewed [here](https://presenter.ahaslides.com/share/1616536096200-2zkjoc6b4c?presenting=true).
+We'll be conducting a live poll throughout the class at the following link: [https://ahaslides.com/DEEPINTRO](https://audience.ahaslides.com/2zkjoc6b4c).
 
 1. **Artificial Neural Networks**
   + [Github](https://github.com/d9w/deep-learning-intro/blob/main/1.%20Artificial%20Neural%20Networks.ipynb) |
