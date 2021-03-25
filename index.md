@@ -16,16 +16,20 @@ This class is based on `torch` and `torchvision`; please refer to the [PyTorch](
 We'll be conducting a live poll throughout the class at the following link: [https://ahaslides.com/DEEP-INTRO](https://ahaslides.com/DEEP-INTRO). The poll questions and responses can be viewed [here](https://presenter.ahaslides.com/share/1616536096200-2zkjoc6b4c?presenting=true).
 
 1. Artificial Neural Networks
-  + [Github](https://github.com/d9w/deep-learning-intro/blob/main/1.%20Artificial%20Neural%20Networks.ipynb) | [Colab](https://colab.research.google.com/github/d9w/deep-learning-intro/blob/main/1.%20Artificial%20Neural%20Networks.ipynb)
+  + [Github](https://github.com/d9w/deep-learning-intro/blob/main/1.%20Artificial%20Neural%20Networks.ipynb) |
+  [Colab](https://colab.research.google.com/github/d9w/deep-learning-intro/blob/main/1.%20Artificial%20Neural%20Networks.ipynb)
 
 2. Training ANNs
- [Github](https://github.com/d9w/deep-learning-intro/blob/main/2.%20Training%20ANNs.ipynb) | [Colab](https://colab.research.google.com/github/d9w/deep-learning-intro/blob/main/2.%20Training%20ANNs.ipynb)
+ + [Github](https://github.com/d9w/deep-learning-intro/blob/main/2.%20Training%20ANNs.ipynb) |
+ [Colab](https://colab.research.google.com/github/d9w/deep-learning-intro/blob/main/2.%20Training%20ANNs.ipynb)
 
 3. Going deeper with layers
-  + [Github](https://github.com/d9w/deep-learning-intro/blob/main/3.%20Going%20deeper%20with%20layers.ipynb) | [Colab](https://colab.research.google.com/github/d9w/deep-learning-intro/blob/main/3.%20Going%20deeper%20with%20layers.ipynb)
+  + [Github](https://github.com/d9w/deep-learning-intro/blob/main/3.%20Going%20deeper%20with%20layers.ipynb) |
+  [Colab](https://colab.research.google.com/github/d9w/deep-learning-intro/blob/main/3.%20Going%20deeper%20with%20layers.ipynb)
 
 4. Convolutional Neural Networks
-  + [Github](https://github.com/d9w/deep-learning-intro/blob/main/4.%20Convolutional%20Neural%20Networks.ipynb) | [Colab](https://colab.research.google.com/github/d9w/deep-learning-intro/blob/main/4.%20Convolutional%20Neural%20Networks.ipynb)
+  + [Github](https://github.com/d9w/deep-learning-intro/blob/main/4.%20Convolutional%20Neural%20Networks.ipynb) |
+  [Colab](https://colab.research.google.com/github/d9w/deep-learning-intro/blob/main/4.%20Convolutional%20Neural%20Networks.ipynb)
 
 ## Additional Materials
 
@@ -35,7 +39,7 @@ class](https://supaerodatascience.github.io/deep-learning/).
 
 [The deep learning book](https://www.deeplearningbook.org/) is fully available
 online and contains many great examples. Notebook versions of those examples are
-available [here](https://github.com/hadrienj/deepLearningBook-Notes)
+available [here](https://github.com/hadrienj/deepLearningBook-Notes).
 
 [The Neural Networks and Deep Learning online
 book](http://neuralnetworksanddeeplearning.com/chap4.html) covers the universal
